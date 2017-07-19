@@ -91,6 +91,7 @@ header a:hover {
 	font-size: 20px;
 }
 
+/* newsletter */	
 #newsletter {
 	padding: 15px;
 	color: #fff;
@@ -101,7 +102,6 @@ header a:hover {
 	float: left;
 }
 
-
 #newsletter form {
 	float: right;
 	margin-top: 15px;
@@ -111,4 +111,30 @@ header a:hover {
 	padding: 4px;
 	height: 25px;
 	width: 250px;
+}
+
+/* boxes */
+#boxes {
+	margin-top: 20px;
+}
+
+#boxes .box {
+	float: left;
+	width: 30%;
+	padding: 10px;
+	text-align: center;
+}
+
+#boxes .box img {
+	width: 90px;
+}
+
+/* footer */
+footer {
+	padding: 20px;
+	margin-top: 20px;
+	color: #fff;
+	background-color: #e8491d;
+	text-align: center;
+	font-size: 18px;
 }
