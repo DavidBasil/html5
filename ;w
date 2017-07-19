@@ -25,7 +25,6 @@ ul {
 	border: none;
 	padding-left: 20px;
 	padding-right: 20px;
-	color: #fff;
 }
 
 /* ------------------- */
